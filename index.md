@@ -9,9 +9,7 @@ My research currently focuses on various mathematical aspects of optimization an
 
 *Email*: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in)
 
-<!-- One of my earlier endeavours at IIT-B was writing code for an autonomous underwater vehicle at [AUV-IITB](http://auv-iitb.org/). 
-
-Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).
+<!--Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).
 
 ![IIT Lakeside]({{ "/assets/iit_lakeside.jpg" | absolute_url}})-->
 
