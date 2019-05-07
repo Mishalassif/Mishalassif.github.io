@@ -13,7 +13,7 @@ My research currently focuses on various mathematical aspects of optimization an
 
 ![IIT Lakeside]({{ "/assets/iit_lakeside.jpg" | absolute_url}})-->
 
-<img src="assets/iit_lakeside.jpg" alt="hi" class="inline">
+<img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline">
 
 <br>
 
