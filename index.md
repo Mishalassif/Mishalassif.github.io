@@ -9,6 +9,10 @@ My research currently focuses on various mathematical aspects of optimization an
 
 *Email*: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in)
 
+<!-- One of my earlier endeavours at IIT-B was writing code for an autonomous underwater vehicle at [AUV-IITB](http://auv-iitb.org/). 
+
+Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).-->
+
 ![IIT Lakeside]({{ "/assets/iit_lakeside.jpg" | absolute_url}})
 
 <br>
@@ -36,3 +40,16 @@ Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo
 * Autumn 2018 - (ME 311) Microprocessors and Automatic Control
 * Spring 2019 - (ME 310) Microprocessors and Automatic Control Lab
 <br>
+
+<!--
+## Miscellaneous
+<hr />
+
+* [ME 6106 Computational Structural Dynamics - Course project.]({{"/assets/misc/csd.pdf" | absolute_url}})
+Report I prepared as part of a course project. Contains a review of the contents of  The objective of the report is to show that the Newmark
+family of time integration algorithms, used widely in the computational structural dynamics community, is
+variational in nature. Contains a very compressed and slightly modified exposition of the contents of [MaWe2001](http://lagrange.mechse.illinois.edu/pubs/MaWe2001/) and [KaMaOrWe2000](http://lagrange.mechse.illinois.edu/pubs/KaMaOrWe2000/).
+
+<hr />
+-->
+
