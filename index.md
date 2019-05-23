@@ -21,12 +21,11 @@ My research currently focuses on various mathematical aspects of optimization an
 
 ### Journal Publications (including preprints):
 
-
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted to Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
 * **A simple proof of the discrete time geometric Pontryagin maximum principle on smooth manifolds**. <br>
-Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> *Under revision in Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
+Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> *Provisionally accepted in Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
 
 ### Conference Publications (including preprints):
 
