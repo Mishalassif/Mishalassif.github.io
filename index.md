@@ -21,6 +21,9 @@ My research currently focuses on various mathematical aspects of optimization an
 
 ### Journal Publications (including preprints):
 
+* **Scenario approach for robust nonconvex optimization problems: Positive results and caveats.** <br>
+Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *In preparation.*
+
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted to Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
@@ -34,7 +37,7 @@ Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo
 
 <br>
 
-## Teaching assistant
+## Teaching Assistantships
 ### At IIT Bombay:
 * Spring 2018 - (SC 624) Differential Geometric Methods in Control
 * Autumn 2018 - (ME 311) Microprocessors and Automatic Control
