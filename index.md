@@ -5,24 +5,28 @@ layout: default
 
 I am a final year Dual degree (B.Tech + M.Tech) student in the [Department of Mechanical Engineering](http:\\www.me.iitb.ac.in) at [Indian Institute of Technology Bombay](http://www.iitb.ac.in). I am being advised by [Prof. Debasish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee) and [Prof. Ravi Banavar](http://www.sc.iitb.ac.in/~banavar) in the [Department of Systems and Control Engineering](http://www.sc.iitb.ac.in). 
 
-My research currently focuses on various mathematical aspects of optimization and control.
+My research currently focuses on various mathematical aspects of optimization and control. <br>
+More information: [Curriculum Vitae]({{ "/assets/cv_mishal.pdf" | absolute_url }}) <br>
+Email: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in) <br>
 
-*Email*: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in)
+<!--Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).-->
 
-<!--Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).
+<!-- ![IIT Lakeside]({{ "/assets/iit_lakeside.jpg" | absolute_url}})-->
 
-![IIT Lakeside]({{ "/assets/iit_lakeside.jpg" | absolute_url}})-->
-
-<img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline">
-
-<br>
+<img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
 
 ## Publications
 
+> [ Google Scholar Profile ](https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en)
+
+> [ ORCID Profile ](https://orcid.org/0000-0003-2998-2637)
+
+
 ### Journal Publications (including preprints):
 
+
 * **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
-Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *In preparation.* <br>
+Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *Submitted to IEEE Transactions on Automatic Control.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted to Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
