@@ -17,12 +17,27 @@ Email: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in) <br>
 
 ## Publications
 
-> [ Google Scholar Profile ](https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en)
+> [_Google scholar profile_](https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en)
 
-> [ ORCID Profile ](https://orcid.org/0000-0003-2998-2637)
+> [ ORCID profile ](https://orcid.org/0000-0003-2998-2637)
 
-> [ arXiv page ](https://arxiv.org/a/0000-0003-2998-2637)
+> [ arXiv author's page ](https://arxiv.org/a/0000-0003-2998-2637)
 
+<!--
+<blockquote>
+<a href="https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en">
+    Google scholar profile
+</a>
+<br>
+<a href="https://orcid.org/0000-0003-2998-2637">
+    ORCID profile
+</a>
+<br>
+<a href="https://arxiv.org/a/0000-0003-2998-2637">
+    arXiv author's page
+</a>
+</blockquote>
+-->
 
 ### Journal Publications (including preprints):
 
