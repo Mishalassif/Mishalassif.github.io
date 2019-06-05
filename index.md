@@ -21,9 +21,10 @@ Email: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in) <br>
 
 > [ ORCID Profile ](https://orcid.org/0000-0003-2998-2637)
 
+> [ arXiv page ](https://arxiv.org/a/0000-0003-2998-2637)
+
 
 ### Journal Publications (including preprints):
-
 
 * **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
 Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *Submitted to IEEE Transactions on Automatic Control.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
