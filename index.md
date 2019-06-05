@@ -15,29 +15,13 @@ Email: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in) <br>
 
 <img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
 
-## Publications
+<!-- ## Publications
 
 > [_Google scholar profile_](https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en)
 
 > [ ORCID profile ](https://orcid.org/0000-0003-2998-2637)
 
 > [ arXiv author's page ](https://arxiv.org/a/0000-0003-2998-2637)
-
-<!--
-<blockquote>
-<a href="https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en">
-    Google scholar profile
-</a>
-<br>
-<a href="https://orcid.org/0000-0003-2998-2637">
-    ORCID profile
-</a>
-<br>
-<a href="https://arxiv.org/a/0000-0003-2998-2637">
-    arXiv author's page
-</a>
-</blockquote>
--->
 
 ### Journal Publications (including preprints):
 
@@ -63,7 +47,7 @@ Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo
 * Autumn 2018 - (ME 311) Microprocessors and Automatic Control
 * Spring 2019 - (ME 310) Microprocessors and Automatic Control Lab
 <br>
-
+-->
 <!--
 ## Miscellaneous
 <hr />
