@@ -29,10 +29,10 @@ permalink: /publications/
 ### Journal Publications (including preprints):
 
 * **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
-Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *Submitted to IEEE Transactions on Automatic Control.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
+Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *Submitted.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
-Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted to Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
+Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
 * **A simple proof of the discrete time geometric Pontryagin maximum principle on smooth manifolds**. <br>
 Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> *Provisionally accepted in Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>

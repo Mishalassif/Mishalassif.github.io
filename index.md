@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<!--<p><img src="assets/mishal.jpg" alt="abc" style="float: right;margin-right: 7px;margin-top: 7px;height: 200px;border: 5" /></p>-->
 
 I am a final year Dual degree (B.Tech + M.Tech) student in the [Department of Mechanical Engineering](http:\\www.me.iitb.ac.in) at [Indian Institute of Technology Bombay](http://www.iitb.ac.in). I am being advised by [Prof. Debasish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee) and [Prof. Ravi Banavar](http://www.sc.iitb.ac.in/~banavar) in the [Department of Systems and Control Engineering](http://www.sc.iitb.ac.in). 
+
 
 My research currently focuses on various mathematical aspects of optimization and control. <br>
 More information: [Curriculum Vitae]({{ "/assets/cv_mishal.pdf" | absolute_url }}) <br>
