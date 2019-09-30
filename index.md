@@ -11,7 +11,7 @@ I graduated with a Dual degree (B.Tech + M.Tech) in Mechanical Engineering from 
 
 My research focuses on various mathematical aspects of optimization, control and learning. <br>
 More information: [Curriculum Vitae]({{ "/assets/cv_mishal.pdf" | absolute_url }}) <br>
-Email: [mishal\_assif@iitb.ac.in](mailto:mishal\_assif@iitb.ac.in) <br>
+Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 
 <!--Find my CV [here]({{ "/assets/cv_mishal.pdf" | absolute_url }}).-->
 
