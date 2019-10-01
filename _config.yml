@@ -1,8 +1,8 @@
 # Site settings
 title: Mishal Assif P K
-email: mishal_assif@iitb.ac.in
+email: mishal2@illinois.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Final year Dual degree student, Department of Mechanical engineering at IIT-Bombay.. 
+  First year Ph.D student, Department of Electrical engineering at UIUC. 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://mishalassif.github.io" # the base hostname & protocol for your site
 #twitter_username: JAlexBranham
