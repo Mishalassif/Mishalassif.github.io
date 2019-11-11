@@ -35,7 +35,7 @@ Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *Submitted.* <br>  \[ [
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
 * **A simple proof of the discrete time geometric Pontryagin maximum principle on smooth manifolds**. <br>
-Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> *Provisionally accepted in Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
+Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> *To Appear in Automatica.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
 
 ### Conference Publications (including preprints):
 
