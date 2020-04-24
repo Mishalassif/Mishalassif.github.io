@@ -28,11 +28,11 @@ permalink: /publications/
 
 ### Journal Publications (including preprints):
 
+* **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
+Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt), Vol.30(2), 2020. <br>  \[ [ doi ](https://epubs.siam.org/doi/10.1137/19M1271026), [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
+
 * **A simple proof of the discrete time geometric Pontryagin maximum principle on smooth manifolds**. <br>
 Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> [Automatica](https://www.sciencedirect.com/journal/automatica), Vol.114, 2020. <br>  \[ [ doi ](https://www.sciencedirect.com/science/article/pii/S0005109819306545?dgcid=author), [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
-
-* **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
-Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> *To Appear in SIAM Journal on Optimization.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
