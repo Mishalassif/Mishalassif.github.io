@@ -10,7 +10,10 @@ I graduated with a Dual degree (B.Tech + M.Tech) in Mechanical Engineering from 
 
 
 My research focuses on various mathematical aspects of optimization, control and learning. <br>
+<!--
 More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [CV]({{ "/assets/cv_mishal.pdf" | absolute_url }}). <br>
+-->
+More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}) <br>
 Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 
 <img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
