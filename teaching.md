@@ -6,6 +6,7 @@ permalink: /teaching/
 #### At UIUC:
 
 - Fall 2020: ECE 486 Control Systems, *Teaching assistant*
+- Sring 2021: ECE 486 Control Systems, *Teaching assistant*
 
 #### At IIT Bombay:
 

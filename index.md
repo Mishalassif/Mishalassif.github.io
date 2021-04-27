@@ -4,7 +4,7 @@ layout: default
 
 <!--<p><img src="assets/mishal.jpg" alt="abc" style="float: right;margin-right: 7px;margin-top: 7px;height: 200px;border: 5" /></p>-->
 
-I am a first year Ph.D student in the [Department of Electrical Engineering](http://www.ece.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu/) where I am being advised by [Prof. Yuliy Baryshnikov](https://publish.illinois.edu/ymb/).
+I am a second year Ph.D student in the [Department of Electrical Engineering](http://www.ece.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu/) where I am being advised by [Prof. Yuliy Baryshnikov](https://publish.illinois.edu/ymb/).
 
 I graduated with a Dual degree (B.Tech + M.Tech) in Mechanical Engineering from the [Indian Institute of Technology Bombay](http://www.iitb.ac.in) where I was advised by [Prof. Debasish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee) and [Prof. Ravi Banavar](http://www.sc.iitb.ac.in/~banavar) in the [Department of Systems and Control Engineering](http://www.sc.iitb.ac.in).
 

@@ -35,7 +35,7 @@ Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> [SIAM Journal on Optimi
 Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> [Automatica](https://www.sciencedirect.com/journal/automatica), Vol.114, 2020. <br>  \[ [ doi ](https://doi.org/10.1016/j.automatica.2019.108791), [ arXiv preprint ](https://arxiv.org/abs/1807.00698) \] <br>
 
 * **Measure of quality of finite-dimensional linear systems: A frame-theoretic view.** <br>
-Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> *Submitted.* <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
+Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> [Systems & Controls Letters](https://www.sciencedirect.com/journal/systems-and-control-letters), Vol.151, 2021. <br>  \[ [ doi ](https://doi.org/10.1016/j.sysconle.2021.104911), [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
 ### Conference Publications (including preprints):
 
