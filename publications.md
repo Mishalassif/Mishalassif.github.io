@@ -33,6 +33,9 @@ permalink: /publications/
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 -->
 
+* **Singularities of Gaussian random maps into the plane.** <br>
+Mishal Assif P K<br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2202.08242) \] <br>
+
 * **Biparametric persistence for smooth filtrations.** <br>
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2110.09602) \] <br>
 
