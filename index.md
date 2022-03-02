@@ -12,7 +12,7 @@ I graduated with a Dual degree (B.Tech + M.Tech) in Mechanical Engineering from 
 More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [CV]({{ "/assets/cv_mishal.pdf" | absolute_url }}), [LinkedIn]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [CV]({{ "/assets/cv_mishal.pdf" | absolute_url }}).. <br>
 -->
 
-More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [LinkedIn]({{ "https://www.linkedin.com/in/mishal-assif-p-k-943919223"}}), [Github]({{ "https://www.github.com/Mishalassif"}}).<br>
+More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [Google scholar]({{ "https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en"}}), [LinkedIn]({{ "https://www.linkedin.com/in/mishalassif"}}), [Github]({{ "https://www.github.com/Mishalassif"}}).<br>
 Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 
 <img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
