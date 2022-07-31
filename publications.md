@@ -33,6 +33,7 @@ permalink: /publications/
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 -->
 
+
 * **Singularities of Gaussian random maps into the plane.** <br>
 Mishal Assif P K<br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2202.08242) \] <br>
 
@@ -49,6 +50,9 @@ Mishal Assif P K , Debasish Chatterjee, Ravi Banavar <br> [Automatica](https://w
 Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> [Systems & Controls Letters](https://www.sciencedirect.com/journal/systems-and-control-letters), Vol.151, 2021. <br>  \[ [ doi ](https://doi.org/10.1016/j.sysconle.2021.104911), [ arXiv preprint ](https://arxiv.org/abs/1902.04548) \] <br>
 
 ### Conference Publications (including preprints):
+
+* **Fair Allocation in Crowd-Sourced Systems.** <br>
+Mishal Assif P K, William Sean Kennedy, Iraj Saniee<br> Submitted to IEEE International Conference on Computer Communications (INFOCOM), 2023. <br>
 
 * **Variational collision avoidance problems on Riemannian manifolds**. <br>
 Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo <br> Proceedings of the [57th IEEE Conference on Decision and Control](https://cdc2018.ieeecss.org/), Florida, USA, 2018. <br> \[[ doi ](https://www.doi.org/10.1109/CDC.2018.8619596),  [ arXiv preprint ](https://arxiv.org/abs/1804.00122) \] <br>
