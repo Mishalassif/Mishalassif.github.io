@@ -51,7 +51,7 @@ Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> [Systems & C
 
 ### Conference Publications (including preprints):
 
-* **Fair Allocation in Crowd-Sourced Systems.** <br>
+<!--* **Fair Allocation in Crowd-Sourced Systems.** <br>
 Mishal Assif P K, William Sean Kennedy, Iraj Saniee<br> Submitted.
 <!--to IEEE International Conference on Computer Communications (INFOCOM), 2023. <br>-->
 
