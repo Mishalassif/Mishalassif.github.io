@@ -39,7 +39,7 @@ Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2110.09602) \] <br>
 
 * **Singularities of Gaussian random maps into the plane.** <br>
-Mishal Assif P K<br> Journal of Applied and Computational Topology, Accepted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2202.08242) \] <br>
+Mishal Assif P K<br> [Journal of Applied and Computational Topology](https://www.springer.com/journal/41468), Accepted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2202.08242) \] <br>
 
 * **Scenario approach for minmax optimization with emphasis on the nonconvex case: positive results and caveats.** <br>
 Mishal Assif P K, Debasish Chatterjee, Ravi Banavar <br> [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt), Vol.30(2), 2020. <br>  \[ [ doi ](https://epubs.siam.org/doi/10.1137/19M1271026), [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
