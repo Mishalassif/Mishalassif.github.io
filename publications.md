@@ -6,6 +6,8 @@ permalink: /publications/
 
 > [_Google scholar profile_](https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en)
 
+> [ Semantic Scholar profile ](https://www.semanticscholar.org/author/K.-MishalAssifP./1557707671)
+
 > [ ORCID profile ](https://orcid.org/0000-0003-2998-2637)
 
 > [ arXiv author's page ](https://arxiv.org/a/0000-0003-2998-2637)
