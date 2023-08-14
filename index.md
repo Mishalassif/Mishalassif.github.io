@@ -16,7 +16,7 @@ More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [C
 More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [Google scholar]({{ "https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en"}}), [LinkedIn]({{ "https://www.linkedin.com/in/mishalassif"}}), [Github]({{ "https://www.github.com/Mishalassif"}}). <br>
 Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 -->
-More information: [Resume]({{ "/assets/resume_long.pdf" | absolute_url }}), [Google scholar]({{ "https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en"}}), [LinkedIn]({{ "https://www.linkedin.com/in/mishalassif"}}), [Github]({{ "https://www.github.com/Mishalassif"}}). <br>
+More information: [Resume]({{ "/assets/resume.pdf" | absolute_url }}), [Google scholar]({{ "https://scholar.google.co.in/citations?user=cXF5JaMAAAAJ&hl=en"}}), [LinkedIn]({{ "https://www.linkedin.com/in/mishalassif"}}), [Github]({{ "https://www.github.com/Mishalassif"}}). <br>
 Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 
 <img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
