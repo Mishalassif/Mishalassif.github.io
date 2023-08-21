@@ -41,7 +41,7 @@ Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2110.09602) \] <br>
 
 * **Fair Allocation in Crowd-Sourced Systems.** <br>
-Mishal Assif P K, William Sean Kennedy, Iraj Saniee <br> [Games](https://www.mdpi.com/journal/games), Accepted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2305.12756) \] <br>
+Mishal Assif P K, William Sean Kennedy, Iraj Saniee <br> [Games](https://www.mdpi.com/journal/games), Vol.14(4), 2023. <br> \[ [ doi ](https://dx.doi.org/10.2139/ssrn.3262316), [ arXiv preprint ](https://arxiv.org/abs/2305.12756) \] <br>
 
 * **Singularities of Gaussian random maps into the plane.** <br>
 Mishal Assif P K<br> [Journal of Applied and Computational Topology](https://www.springer.com/journal/41468), Vol.7, 2023. <br>  \[ [ doi ](https://doi.org/10.1007/s41468-023-00113-0), [ arXiv preprint ](https://arxiv.org/abs/2202.08242) \] <br>
