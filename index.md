@@ -4,7 +4,7 @@ layout: default
 
 <!--<p><img src="assets/mishal.jpg" alt="abc" style="float: right;margin-right: 7px;margin-top: 7px;height: 200px;border: 5" /></p>-->
 
-I am a fourth year Ph.D student in the [Department of Electrical Engineering](http://www.ece.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), working on the theory and applications of Topological data analysis under the guidance of [Prof. Yuliy Baryshnikov](https://publish.illinois.edu/ymb/). I'm also pursuing a M.S degree in the [Department of Mathematics](http://www.math.illinois.edu) at UIUC. 
+I am a fifth year Ph.D student in the [Department of Electrical Engineering](http://www.ece.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), working on the theory and applications of Topological data analysis under the guidance of [Prof. Yuliy Baryshnikov](https://publish.illinois.edu/ymb/). I'm also pursuing a M.S degree in the [Department of Mathematics](http://www.math.illinois.edu) at UIUC. 
 
 I am an intern at [Nokia Bell Labs](https://www.bell-labs.com) for Summer 2022, Fall 2022 and Spring 2023 where I am working on applications of Machine learning and Game theory to communication systems under [Iraj Saniee](https://www.bell-labs.com/about/researcher-profiles/irajsaniee/#gref) and [Carl Nuzman](https://www.bell-labs.com/about/researcher-profiles/carlnuzman/#gref).
 
