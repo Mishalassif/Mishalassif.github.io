@@ -35,12 +35,10 @@ permalink: /publications/
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/1906.01476) \] <br>
 -->
 
-
-
 * **Biparametric persistence for smooth filtrations.** <br>
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2110.09602) \] <br>
 
-* **Fair Allocation in Crowd-Sourced Systems.** <br>
+* **Fair allocation in crowd-sourced systems.** <br>
 Mishal Assif P K, William Sean Kennedy, Iraj Saniee <br> [Games](https://www.mdpi.com/journal/games), Vol.14(4), 2023. <br> \[ [ doi ](https://dx.doi.org/10.2139/ssrn.3262316), [ arXiv preprint ](https://arxiv.org/abs/2305.12756) \] <br>
 
 * **Singularities of Gaussian random maps into the plane.** <br>
@@ -57,8 +55,12 @@ Mishal Assif P K, Mohammed Rayyan Sheriff, Debasish Chatterjee <br> [Systems & C
 
 ### Conference Publications (including preprints):
 
+* **Topological state space inference for dynamical systems.** <br>
+Mishal Assif P K, Yuliy Baryshnikov <br>
+Proceedings of the [7th Annual Learning for Control and Decision Conference (L4DC)](https://sites.google.com/umich.edu/l4dc2025/), Michigan, USA, 2025. <br>
+
 * **Variational collision avoidance problems on Riemannian manifolds**. <br>
-Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo <br> Proceedings of the [57th IEEE Conference on Decision and Control](https://cdc2018.ieeecss.org/), Florida, USA, 2018. <br> \[[ doi ](https://www.doi.org/10.1109/CDC.2018.8619596),  [ arXiv preprint ](https://arxiv.org/abs/1804.00122) \] <br>
+Mishal Assif, Ravi Banavar, Anthony Bloch, Margarida Camarinha, Leonardo Colombo <br> Proceedings of the [57th IEEE Conference on Decision and Control (CDC)](https://cdc2018.ieeecss.org/), Florida, USA, 2018. <br> \[[ doi ](https://www.doi.org/10.1109/CDC.2018.8619596),  [ arXiv preprint ](https://arxiv.org/abs/1804.00122) \] <br>
 
 ### Poster Presentations
 
