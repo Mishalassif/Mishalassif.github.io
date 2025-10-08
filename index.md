@@ -21,5 +21,9 @@ More information: [Resume]({{ "/assets/resume_mishal.pdf" | absolute_url }}), [G
 Email: [mishal2@illinois.edu](mailto:mishal2@illinois.edu) <br>
 -->
 
+
 <img src="assets/iit_lakeside.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
+<br>
+<br>
+<img src="assets/uiuc_winter.jpg" alt="iit_lakeside.jpg" class="inline"> <br>
 
