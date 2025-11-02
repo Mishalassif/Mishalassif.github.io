@@ -36,7 +36,7 @@ Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](
 -->
 
 * **Minimal unimodal decomposition is NP-hard on graphs.** <br>
-Mishal Assif P K, Yuliy Baryshnikov <br> Submitted to SIAM Journal on Discrete Mathematics. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2510.05944) \] <br>
+Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2510.05944) \] <br>
 
 * **Biparametric persistence for smooth filtrations.** <br>
 Mishal Assif P K, Yuliy Baryshnikov <br> Submitted. <br>  \[ [ arXiv preprint ](https://arxiv.org/abs/2110.09602) \] <br>
